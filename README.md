@@ -1,5 +1,5 @@
 # electricity-population-singapore
-Visualization of correlation matrix of Singapore's population structure with electricity usage and generation
+Visualization of pearson correlation matrix of Singapore's population structure with electricity usage and generation
 
 The jupyter notebook explores 2 datasets orginating from SingStats:  
 1. Singapore's population structure  
